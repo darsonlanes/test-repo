@@ -14,4 +14,11 @@ public class GitTest {
         System.out.print("Hello World!");
         
     }
+    
+    public void goodbyeWorld() {
+        
+        System.out.print("Goodbye World!");
+        
+    }
+    
 }
